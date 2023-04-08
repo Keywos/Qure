@@ -2,6 +2,10 @@
     "name": "Qure mini",
     "icons": [
         {
+            "name": "loon.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/loon.png"
+        },
+        {
             "name": "surge.png",
             "url": "https://raw.githubusercontent.com/Keywos/Qure/main/surge.png"
         },
