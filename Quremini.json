@@ -1,1 +1,1366 @@
-{"name":"Qure mini","icons":[{"name":"Direct.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Direct.png"},{"name":"Proxy.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Proxy.png"},{"name":"Reject.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Reject.png"},{"name":"Auto.png","url":""},{"name":"Static.png","url":""},{"name":"Available.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Available.png"},{"name":"Round_Robin.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Round_Robin.png"},{"name":"SSID.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SSID.png"},{"name":"ULB.png","url":""},{"name":"Quantumult_X.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Quantumult_X.png"},{"name":"Qure.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Qure.png"},{"name":"Domestic.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Domestic.png"},{"name":"HKMTMedia.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/HKMTMedia.png"},{"name":"StreamingSE.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/StreamingSE.png"},{"name":"Back.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Back.png"},{"name":"Global.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Global.png"},{"name":"GlobalMedia.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/GlobalMedia.png"},{"name":"Streaming.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Streaming.png"},{"name":"Final.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Final.png"},{"name":"Advertising.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Advertising.png"},{"name":"AdBlack.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AdBlack.png"},{"name":"AdWhite.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AdWhite.png"},{"name":"Hijacking.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Hijacking.png"},{"name":"OneDrive.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/OneDrive.png"},{"name":"Telegram.png","url":""},{"name":"Frog.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Frog.png"},{"name":"Blackhole.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Blackhole.png"},{"name":"TAG.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/TAG.png"},{"name":"Bamboo.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Bamboo.png"},{"name":"Cat.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Cat.png"},{"name":"Lambda.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Lambda.png"},{"name":"Panda.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Panda.png"},{"name":"SSL.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SSL.png"},{"name":"Luffy.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Luffy.png"},{"name":"Nfcloud.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Nfcloud.png"},{"name":"Catnet.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Catnet.png"},{"name":"5iTV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/5iTV.png"},{"name":"aaex.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/aaex.png"},{"name":"AbemaTV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AbemaTV.png"},{"name":"AbemaTV_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AbemaTV_Letter.png"},{"name":"AIA.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AIA.png"},{"name":"AIA_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AIA_Letter.png"},{"name":"Airport.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Airport.png"},{"name":"Alibaba.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Alibaba.png"},{"name":"Alibaba_Cloud.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Alibaba_Cloud.png"},{"name":"All4.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/All4.png"},{"name":"AmyTelecom.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AmyTelecom.png"},{"name":"AmyTelecom_1.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AmyTelecom_1.png"},{"name":"Apol.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apol.png"},{"name":"Apple.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple.png"},{"name":"Apple_Fitness+.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Fitness+.png"},{"name":"Apple_Fitness.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Fitness.png"},{"name":"Apple_Mail.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Mail.png"},{"name":"Apple_Music.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Music.png"},{"name":"Apple_News.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple_News.png"},{"name":"Apple_TV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple_TV.png"},{"name":"Apple_TV_Plus.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple_TV_Plus.png"},{"name":"Apple_Update.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Update.png"},{"name":"App_Store.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/App_Store.png"},{"name":"Area.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Area.png"},{"name":"ARK.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/ARK.png"},{"name":"Available_Alt.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Available_Alt.png"},{"name":"AWS.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/AWS.png"},{"name":"Azure.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Azure.png"},{"name":"Bahamut.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Bahamut.png"},{"name":"Baidu_Cloud.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Baidu_Cloud.png"},{"name":"BBC_iPlayer.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/BBC_iPlayer.png"},{"name":"BBTEC.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/BBTEC.png"},{"name":"BGP.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/BGP.png"},{"name":"bilibili.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/bilibili.png"},{"name":"Blinkload.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Blinkload.png"},{"name":"Blinkload_B.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Blinkload_B.png"},{"name":"Blinkload_SS.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Blinkload_SS.png"},{"name":"Blinkload_V2Ray.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Blinkload_V2Ray.png"},{"name":"Bookpedia.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Bookpedia.png"},{"name":"BosLife.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/BosLife.png"},{"name":"BosLife_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/BosLife_Letter.png"},{"name":"Bot.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Bot.png"},{"name":"Bypass.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Bypass.png"},{"name":"CA.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CA.png"},{"name":"Canada.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Canada.png"},{"name":"CCCAT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CCCAT.png"},{"name":"CCCAT_C.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CCCAT_C.png"},{"name":"Cellular.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Cellular.png"},{"name":"CEN.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CEN.png"},{"name":"China.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/China.png"},{"name":"China_Map.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/China_Map.png"},{"name":"China_Telecom.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/China_Telecom.png"},{"name":"China_Unicom.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/China_Unicom.png"},{"name":"CHT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CHT.png"},{"name":"Cloudflare.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Cloudflare.png"},{"name":"CMI.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CMI.png"},{"name":"CN.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CN.png"},{"name":"CN2.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CN2.png"},{"name":"CN2_GIA.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CN2_GIA.png"},{"name":"CN2_GT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CN2_GT.png"},{"name":"CONAIR.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CONAIR.png"},{"name":"CrossWall.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CrossWall.png"},{"name":"CTM.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CTM.png"},{"name":"Cydia.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Cydia.png"},{"name":"Daily.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Daily.png"},{"name":"DAZN.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/DAZN.png"},{"name":"DE.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/DE.png"},{"name":"deezer.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/deezer.png"},{"name":"deezer_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/deezer_Letter.png"},{"name":"Dinosaur.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Dinosaur.png"},{"name":"discovery+.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/discovery+.png"},{"name":"Disney+.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Disney+.png"},{"name":"Dler.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Dler.png"},{"name":"DMIT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/DMIT.png"},{"name":"DomesticMedia.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/DomesticMedia.png"},{"name":"Download.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Download.png"},{"name":"Drill.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Drill.png"},{"name":"Emby.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Emby.png"},{"name":"encoreTVB.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/encoreTVB.png"},{"name":"ESPN+.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/ESPN+.png"},{"name":"EU.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/EU.png"},{"name":"European_Union.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/European_Union.png"},{"name":"Facebook.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Facebook.png"},{"name":"FI.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/FI.png"},{"name":"Filter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Filter.png"},{"name":"Find_My.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Find_My.png"},{"name":"Flamingo.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Flamingo.png"},{"name":"ForeignMedia.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/ForeignMedia.png"},{"name":"FOX.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/FOX.png"},{"name":"friDay.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/friDay.png"},{"name":"fuboTV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/fuboTV.png"},{"name":"G-Core_Labs.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/G-Core_Labs.png"},{"name":"Game.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Game.png"},{"name":"GCP.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/GCP.png"},{"name":"Germany.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Germany.png"},{"name":"GIA.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/GIA.png"},{"name":"GLaDOS.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/GLaDOS.png"},{"name":"Google.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Google.png"},{"name":"Google_Drive.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Google_Drive.png"},{"name":"Google_Opinion_Rewards.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Google_Opinion_Rewards.png"},{"name":"Google_Search.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Google_Search.png"},{"name":"GT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/GT.png"},{"name":"GuGuEX.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/GuGuEX.png"},{"name":"GuGuEX_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/GuGuEX_Letter.png"},{"name":"HBO.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/HBO.png"},{"name":"HBO_Max.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/HBO_Max.png"},{"name":"Heart.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Heart.png"},{"name":"Heureka.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Heureka.png"},{"name":"HGC.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/HGC.png"},{"name":"HiNet.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/HiNet.png"},{"name":"hitun.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/hitun.png"},{"name":"HK.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/HK.png"},{"name":"HKBN.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/HKBN.png"},{"name":"HKT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/HKT.png"},{"name":"Hong_Kong.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Hong_Kong.png"},{"name":"Hulu.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Hulu.png"},{"name":"iCloud.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/iCloud.png"},{"name":"IEPL.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/IEPL.png"},{"name":"IIJ.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/IIJ.png"},{"name":"IN.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/IN.png"},{"name":"Ingress.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Ingress.png"},{"name":"Instagram.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Instagram.png"},{"name":"IPLC.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/IPLC.png"},{"name":"iQIYI&bilibili.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/iQIYI&bilibili.png"},{"name":"iQIYI.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/iQIYI.png"},{"name":"ITV_Hub.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/ITV_Hub.png"},{"name":"Japan.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Japan.png"},{"name":"JIYOU.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/JIYOU.png"},{"name":"JOOX.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/JOOX.png"},{"name":"JOOX_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/JOOX_Letter.png"},{"name":"JP.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/JP.png"},{"name":"KKBOX.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/KKBOX.png"},{"name":"KKTV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/KKTV.png"},{"name":"Korea.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Korea.png"},{"name":"KR.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/KR.png"},{"name":"KT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/KT.png"},{"name":"Lab.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Lab.png"},{"name":"League_of_Legends.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/League_of_Legends.png"},{"name":"LineTV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/LineTV.png"},{"name":"LineTV_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/LineTV_Letter.png"},{"name":"LiTV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/LiTV.png"},{"name":"Lock.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Lock.png"},{"name":"LOL.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/LOL.png"},{"name":"Loop.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Loop.png"},{"name":"Macao.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Macao.png"},{"name":"Magic.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Magic.png"},{"name":"Mail.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Mail.png"},{"name":"Malaysia.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Malaysia.png"},{"name":"MAYING.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/MAYING.png"},{"name":"Media.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Media.png"},{"name":"Microsoft.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Microsoft.png"},{"name":"MO.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/MO.png"},{"name":"Mouse.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Mouse.png"},{"name":"Music.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Music.png"},{"name":"Music_Enhance.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Music_Enhance.png"},{"name":"MY.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/MY.png"},{"name":"My5.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/My5.png"},{"name":"myTV_SUPER.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/myTV_SUPER.png"},{"name":"N3RO.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/N3RO.png"},{"name":"NBC.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/NBC.png"},{"name":"Netease_Music.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Netease_Music.png"},{"name":"Netease_Music_Unlock.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Netease_Music_Unlock.png"},{"name":"Netflix.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Netflix.png"},{"name":"Netflix_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Netflix_Letter.png"},{"name":"Nexitally.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Nexitally.png"},{"name":"niconico.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/niconico.png"},{"name":"niconico_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/niconico_Letter.png"},{"name":"Notion.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Notion.png"},{"name":"NTT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/NTT.png"},{"name":"Null_Nation.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Null_Nation.png"},{"name":"NyanCat.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/NyanCat.png"},{"name":"Oracle.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Oracle.png"},{"name":"Ox.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Ox.png"},{"name":"Pandora.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Pandora.png"},{"name":"PayPal.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/PayPal.png"},{"name":"PBS.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/PBS.png"},{"name":"PCCW.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/PCCW.png"},{"name":"Peacock.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Peacock.png"},{"name":"Peacock_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Peacock_Letter.png"},{"name":"Peacock_P.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Peacock_P.png"},{"name":"PH.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/PH.png"},{"name":"Philippines.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Philippines.png"},{"name":"Pig.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Pig.png"},{"name":"Pornhub.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Pornhub.png"},{"name":"PostBox.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/PostBox.png"},{"name":"PostBox_Alt.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/PostBox_Alt.png"},{"name":"Prime_Video.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Prime_Video.png"},{"name":"Puzzle.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Puzzle.png"},{"name":"QQ.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/QQ.png"},{"name":"rix.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/rix.png"},{"name":"rixcloud.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/rixcloud.png"},{"name":"Rocket.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Rocket.png"},{"name":"Round_Robin_Alt.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Round_Robin_Alt.png"},{"name":"RU.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/RU.png"},{"name":"Russia.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Russia.png"},{"name":"Server.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Server.png"},{"name":"SG.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SG.png"},{"name":"Singapore.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Singapore.png"},{"name":"Siri.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Siri.png"},{"name":"SK.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SK.png"},{"name":"Sling_TV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Sling_TV.png"},{"name":"SoftBank.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SoftBank.png"},{"name":"SoftBank_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SoftBank_Letter.png"},{"name":"Spark.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Spark.png"},{"name":"Speedtest.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Speedtest.png"},{"name":"Spotify.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Spotify.png"},{"name":"SS.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SS.png"},{"name":"SSID_Alt.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SSID_Alt.png"},{"name":"SSR.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SSR.png"},{"name":"ssrcloud.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/ssrcloud.png"},{"name":"SSR_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SSR_Letter.png"},{"name":"SS_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/SS_Letter.png"},{"name":"Stack.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Stack.png"},{"name":"Star.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Star.png"},{"name":"Static_Alt.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Static_Alt.png"},{"name":"StreamingCN.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/StreamingCN.png"},{"name":"Taiwan.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Taiwan.png"},{"name":"Taobao.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Taobao.png"},{"name":"Telegram_X.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Telegram_X.png"},{"name":"Tencent_Cloud.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Tencent_Cloud.png"},{"name":"TestFlight.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/TestFlight.png"},{"name":"TH.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/TH.png"},{"name":"Thailand.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Thailand.png"},{"name":"TIDAL.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/TIDAL.png"},{"name":"TikTok.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/TikTok.png"},{"name":"TR.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/TR.png"},{"name":"Trojan.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Trojan.png"},{"name":"Trojan_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Trojan_Letter.png"},{"name":"Turkey.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Turkey.png"},{"name":"TVB.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/TVB.png"},{"name":"TW.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/TW.png"},{"name":"VMess_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/VMess_Letter.png"},{"name":"w8ves.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/w8ves.png"},{"name":"w8ves_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/w8ves_Letter.png"},{"name":"Want_Want.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Want_Want.png"},{"name":"Want_Want_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Want_Want_Letter.png"},{"name":"WeChat.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/WeChat.png"},{"name":"WeTV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/WeTV.png"},{"name":"WeTV_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/WeTV_Letter.png"},{"name":"WiFi.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/WiFi.png"},{"name":"Windows.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Windows.png"},{"name":"WTT.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/WTT.png"},{"name":"x0.1.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x0.1.png"},{"name":"x0.2.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x0.2.png"},{"name":"x0.3.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x0.3.png"},{"name":"x0.4.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x0.4.png"},{"name":"x0.5.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x0.5.png"},{"name":"x0.7.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x0.7.png"},{"name":"x0.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x0.png"},{"name":"x1.0.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x1.0.png"},{"name":"x1.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x1.png"},{"name":"x2.0.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x2.0.png"},{"name":"x2.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x2.png"},{"name":"x3.0.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x3.0.png"},{"name":"x3.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x3.png"},{"name":"x4.0.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x4.0.png"},{"name":"x5.0.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/x5.0.png"},{"name":"YoYu.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/YoYu.png"},{"name":"YoYu_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/YoYu_Letter.png"},{"name":"YTOO.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/YTOO.png"},{"name":"YTOO_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/YTOO_Letter.png"},{"name":"Yahoo.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Yahoo.png"},{"name":"Yahoo_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Yahoo_Letter.png"},{"name":"YouTube.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/YouTube.png"},{"name":"YouTube_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/YouTube_Letter.png"},{"name":"YouTube_Music.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/YouTube_Music.png"},{"name":"Twitch.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Twitch.png"},{"name":"Twitter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Twitter.png"},{"name":"UK.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/UK.png"},{"name":"ULB_Alt.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/ULB_Alt.png"},{"name":"UN.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/UN.png"},{"name":"United_Kingdom.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/United_Kingdom.png"},{"name":"United_Nations.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/United_Nations.png"},{"name":"United_States.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/United_States.png"},{"name":"United_States_Map.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/United_States_Map.png"},{"name":"Unlock.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Unlock.png"},{"name":"US.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/US.png"},{"name":"Vimeo.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Vimeo.png"},{"name":"VIP.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/VIP.png"},{"name":"VirMach.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/VirMach.png"},{"name":"VirMach_Letter.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/VirMach_Letter.png"},{"name":"ViuTV.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/ViuTV.png"},{"name":"VMess.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/VMess.png"},{"name":"Rainbow.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Rainbow.png"},{"name":"Rainbow_1.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Rainbow_1.png"},{"name":"LA.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/LA.png"},{"name":"LA_Map.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/LA_Map.png"},{"name":"Star_2.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Star_2.png"},{"name":"Linkedin.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Linkedin.png"},{"name":"ssLinks.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/ssLinks.png"},{"name":"Renzhe.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Renzhe.png"},{"name":"Ninja.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Ninja.png"},{"name":"Pirate_Nation.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Pirate_Nation.png"},{"name":"CreamData.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/CreamData.png"},{"name":"Kakao.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Kakao.png"},{"name":"Weibo.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Weibo.png"},{"name":"Ryan.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Ryan.png"},{"name":"Apeach.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Apeach.png"},{"name":"Brown.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Brown.png"},{"name":"iQIYI_1.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/iQIYI_1.png"},{"name":"Ring.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Ring.png"},{"name":"Fries.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Fries.png"},{"name":"Naiko.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Naiko.png"},{"name":"Gmail.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Gmail.png"},{"name":"Nintendo.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/Nintendo.png"},{"name":"PlayStation.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/PlayStation.png"},{"name":"PlayStation_1.png","url":"https://raw.githubusercontent.com/Keywos/Qure/main/PlayStation_1.png"},{"name":"Xbox.png","url":"https://raw.githubusercontent.com/KoAR.png"}],"description":"Qure mini key 转自 @Koolson"}
+{
+    "name": "Qure mini",
+    "icons": [
+        {
+            "name": "Direct.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Direct.png"
+        },
+        {
+            "name": "Proxy.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Proxy.png"
+        },
+        {
+            "name": "Reject.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Reject.png"
+        },
+        {
+            "name": "Available.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Available.png"
+        },
+        {
+            "name": "Round_Robin.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Round_Robin.png"
+        },
+        {
+            "name": "SSID.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SSID.png"
+        },
+        {
+            "name": "Quantumult_X.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Quantumult_X.png"
+        },
+        {
+            "name": "Qure.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Qure.png"
+        },
+        {
+            "name": "Domestic.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Domestic.png"
+        },
+        {
+            "name": "HKMTMedia.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/HKMTMedia.png"
+        },
+        {
+            "name": "StreamingSE.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/StreamingSE.png"
+        },
+        {
+            "name": "Back.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Back.png"
+        },
+        {
+            "name": "Global.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Global.png"
+        },
+        {
+            "name": "GlobalMedia.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/GlobalMedia.png"
+        },
+        {
+            "name": "Streaming.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Streaming.png"
+        },
+        {
+            "name": "Final.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Final.png"
+        },
+        {
+            "name": "Advertising.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Advertising.png"
+        },
+        {
+            "name": "AdBlack.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AdBlack.png"
+        },
+        {
+            "name": "AdWhite.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AdWhite.png"
+        },
+        {
+            "name": "Hijacking.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Hijacking.png"
+        },
+        {
+            "name": "OneDrive.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/OneDrive.png"
+        },
+        {
+            "name": "Frog.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Frog.png"
+        },
+        {
+            "name": "Blackhole.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Blackhole.png"
+        },
+        {
+            "name": "TAG.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/TAG.png"
+        },
+        {
+            "name": "Bamboo.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Bamboo.png"
+        },
+        {
+            "name": "Cat.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Cat.png"
+        },
+        {
+            "name": "Lambda.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Lambda.png"
+        },
+        {
+            "name": "Panda.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Panda.png"
+        },
+        {
+            "name": "SSL.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SSL.png"
+        },
+        {
+            "name": "Luffy.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Luffy.png"
+        },
+        {
+            "name": "Nfcloud.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Nfcloud.png"
+        },
+        {
+            "name": "Catnet.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Catnet.png"
+        },
+        {
+            "name": "5iTV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/5iTV.png"
+        },
+        {
+            "name": "aaex.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/aaex.png"
+        },
+        {
+            "name": "AbemaTV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AbemaTV.png"
+        },
+        {
+            "name": "AbemaTV_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AbemaTV_Letter.png"
+        },
+        {
+            "name": "AIA.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AIA.png"
+        },
+        {
+            "name": "AIA_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AIA_Letter.png"
+        },
+        {
+            "name": "Airport.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Airport.png"
+        },
+        {
+            "name": "Alibaba.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Alibaba.png"
+        },
+        {
+            "name": "Alibaba_Cloud.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Alibaba_Cloud.png"
+        },
+        {
+            "name": "All4.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/All4.png"
+        },
+        {
+            "name": "AmyTelecom.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AmyTelecom.png"
+        },
+        {
+            "name": "AmyTelecom_1.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AmyTelecom_1.png"
+        },
+        {
+            "name": "Apol.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apol.png"
+        },
+        {
+            "name": "Apple.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple.png"
+        },
+        {
+            "name": "Apple_Fitness+.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Fitness+.png"
+        },
+        {
+            "name": "Apple_Fitness.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Fitness.png"
+        },
+        {
+            "name": "Apple_Mail.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Mail.png"
+        },
+        {
+            "name": "Apple_Music.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Music.png"
+        },
+        {
+            "name": "Apple_News.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple_News.png"
+        },
+        {
+            "name": "Apple_TV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple_TV.png"
+        },
+        {
+            "name": "Apple_TV_Plus.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple_TV_Plus.png"
+        },
+        {
+            "name": "Apple_Update.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apple_Update.png"
+        },
+        {
+            "name": "App_Store.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/App_Store.png"
+        },
+        {
+            "name": "Area.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Area.png"
+        },
+        {
+            "name": "ARK.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/ARK.png"
+        },
+        {
+            "name": "Available_Alt.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Available_Alt.png"
+        },
+        {
+            "name": "AWS.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/AWS.png"
+        },
+        {
+            "name": "Azure.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Azure.png"
+        },
+        {
+            "name": "Bahamut.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Bahamut.png"
+        },
+        {
+            "name": "Baidu_Cloud.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Baidu_Cloud.png"
+        },
+        {
+            "name": "BBC_iPlayer.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/BBC_iPlayer.png"
+        },
+        {
+            "name": "BBTEC.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/BBTEC.png"
+        },
+        {
+            "name": "BGP.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/BGP.png"
+        },
+        {
+            "name": "bilibili.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/bilibili.png"
+        },
+        {
+            "name": "Blinkload.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Blinkload.png"
+        },
+        {
+            "name": "Blinkload_B.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Blinkload_B.png"
+        },
+        {
+            "name": "Blinkload_SS.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Blinkload_SS.png"
+        },
+        {
+            "name": "Blinkload_V2Ray.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Blinkload_V2Ray.png"
+        },
+        {
+            "name": "Bookpedia.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Bookpedia.png"
+        },
+        {
+            "name": "BosLife.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/BosLife.png"
+        },
+        {
+            "name": "BosLife_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/BosLife_Letter.png"
+        },
+        {
+            "name": "Bot.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Bot.png"
+        },
+        {
+            "name": "Bypass.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Bypass.png"
+        },
+        {
+            "name": "CA.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CA.png"
+        },
+        {
+            "name": "Canada.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Canada.png"
+        },
+        {
+            "name": "CCCAT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CCCAT.png"
+        },
+        {
+            "name": "CCCAT_C.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CCCAT_C.png"
+        },
+        {
+            "name": "Cellular.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Cellular.png"
+        },
+        {
+            "name": "CEN.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CEN.png"
+        },
+        {
+            "name": "China.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/China.png"
+        },
+        {
+            "name": "China_Map.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/China_Map.png"
+        },
+        {
+            "name": "China_Telecom.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/China_Telecom.png"
+        },
+        {
+            "name": "China_Unicom.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/China_Unicom.png"
+        },
+        {
+            "name": "CHT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CHT.png"
+        },
+        {
+            "name": "Cloudflare.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Cloudflare.png"
+        },
+        {
+            "name": "CMI.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CMI.png"
+        },
+        {
+            "name": "CN.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CN.png"
+        },
+        {
+            "name": "CN2.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CN2.png"
+        },
+        {
+            "name": "CN2_GIA.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CN2_GIA.png"
+        },
+        {
+            "name": "CN2_GT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CN2_GT.png"
+        },
+        {
+            "name": "CONAIR.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CONAIR.png"
+        },
+        {
+            "name": "CrossWall.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CrossWall.png"
+        },
+        {
+            "name": "CTM.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CTM.png"
+        },
+        {
+            "name": "Cydia.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Cydia.png"
+        },
+        {
+            "name": "Daily.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Daily.png"
+        },
+        {
+            "name": "DAZN.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/DAZN.png"
+        },
+        {
+            "name": "DE.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/DE.png"
+        },
+        {
+            "name": "deezer.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/deezer.png"
+        },
+        {
+            "name": "deezer_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/deezer_Letter.png"
+        },
+        {
+            "name": "Dinosaur.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Dinosaur.png"
+        },
+        {
+            "name": "discovery+.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/discovery+.png"
+        },
+        {
+            "name": "Disney+.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Disney+.png"
+        },
+        {
+            "name": "Dler.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Dler.png"
+        },
+        {
+            "name": "DMIT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/DMIT.png"
+        },
+        {
+            "name": "DomesticMedia.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/DomesticMedia.png"
+        },
+        {
+            "name": "Download.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Download.png"
+        },
+        {
+            "name": "Drill.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Drill.png"
+        },
+        {
+            "name": "Emby.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Emby.png"
+        },
+        {
+            "name": "encoreTVB.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/encoreTVB.png"
+        },
+        {
+            "name": "ESPN+.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/ESPN+.png"
+        },
+        {
+            "name": "EU.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/EU.png"
+        },
+        {
+            "name": "European_Union.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/European_Union.png"
+        },
+        {
+            "name": "Facebook.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Facebook.png"
+        },
+        {
+            "name": "FI.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/FI.png"
+        },
+        {
+            "name": "Filter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Filter.png"
+        },
+        {
+            "name": "Find_My.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Find_My.png"
+        },
+        {
+            "name": "Flamingo.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Flamingo.png"
+        },
+        {
+            "name": "ForeignMedia.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/ForeignMedia.png"
+        },
+        {
+            "name": "FOX.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/FOX.png"
+        },
+        {
+            "name": "friDay.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/friDay.png"
+        },
+        {
+            "name": "fuboTV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/fuboTV.png"
+        },
+        {
+            "name": "G-Core_Labs.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/G-Core_Labs.png"
+        },
+        {
+            "name": "Game.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Game.png"
+        },
+        {
+            "name": "GCP.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/GCP.png"
+        },
+        {
+            "name": "Germany.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Germany.png"
+        },
+        {
+            "name": "GIA.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/GIA.png"
+        },
+        {
+            "name": "GLaDOS.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/GLaDOS.png"
+        },
+        {
+            "name": "Google.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Google.png"
+        },
+        {
+            "name": "Google_Drive.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Google_Drive.png"
+        },
+        {
+            "name": "Google_Opinion_Rewards.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Google_Opinion_Rewards.png"
+        },
+        {
+            "name": "Google_Search.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Google_Search.png"
+        },
+        {
+            "name": "GT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/GT.png"
+        },
+        {
+            "name": "GuGuEX.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/GuGuEX.png"
+        },
+        {
+            "name": "GuGuEX_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/GuGuEX_Letter.png"
+        },
+        {
+            "name": "HBO.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/HBO.png"
+        },
+        {
+            "name": "HBO_Max.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/HBO_Max.png"
+        },
+        {
+            "name": "Heart.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Heart.png"
+        },
+        {
+            "name": "Heureka.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Heureka.png"
+        },
+        {
+            "name": "HGC.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/HGC.png"
+        },
+        {
+            "name": "HiNet.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/HiNet.png"
+        },
+        {
+            "name": "hitun.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/hitun.png"
+        },
+        {
+            "name": "HK.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/HK.png"
+        },
+        {
+            "name": "HKBN.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/HKBN.png"
+        },
+        {
+            "name": "HKT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/HKT.png"
+        },
+        {
+            "name": "Hong_Kong.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Hong_Kong.png"
+        },
+        {
+            "name": "Hulu.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Hulu.png"
+        },
+        {
+            "name": "iCloud.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/iCloud.png"
+        },
+        {
+            "name": "IEPL.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/IEPL.png"
+        },
+        {
+            "name": "IIJ.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/IIJ.png"
+        },
+        {
+            "name": "IN.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/IN.png"
+        },
+        {
+            "name": "Ingress.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Ingress.png"
+        },
+        {
+            "name": "Instagram.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Instagram.png"
+        },
+        {
+            "name": "IPLC.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/IPLC.png"
+        },
+        {
+            "name": "iQIYI&bilibili.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/iQIYI&bilibili.png"
+        },
+        {
+            "name": "iQIYI.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/iQIYI.png"
+        },
+        {
+            "name": "ITV_Hub.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/ITV_Hub.png"
+        },
+        {
+            "name": "Japan.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Japan.png"
+        },
+        {
+            "name": "JIYOU.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/JIYOU.png"
+        },
+        {
+            "name": "JOOX.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/JOOX.png"
+        },
+        {
+            "name": "JOOX_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/JOOX_Letter.png"
+        },
+        {
+            "name": "JP.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/JP.png"
+        },
+        {
+            "name": "KKBOX.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/KKBOX.png"
+        },
+        {
+            "name": "KKTV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/KKTV.png"
+        },
+        {
+            "name": "Korea.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Korea.png"
+        },
+        {
+            "name": "KR.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/KR.png"
+        },
+        {
+            "name": "KT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/KT.png"
+        },
+        {
+            "name": "Lab.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Lab.png"
+        },
+        {
+            "name": "League_of_Legends.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/League_of_Legends.png"
+        },
+        {
+            "name": "LineTV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/LineTV.png"
+        },
+        {
+            "name": "LineTV_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/LineTV_Letter.png"
+        },
+        {
+            "name": "LiTV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/LiTV.png"
+        },
+        {
+            "name": "Lock.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Lock.png"
+        },
+        {
+            "name": "LOL.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/LOL.png"
+        },
+        {
+            "name": "Loop.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Loop.png"
+        },
+        {
+            "name": "Macao.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Macao.png"
+        },
+        {
+            "name": "Magic.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Magic.png"
+        },
+        {
+            "name": "Mail.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Mail.png"
+        },
+        {
+            "name": "Malaysia.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Malaysia.png"
+        },
+        {
+            "name": "MAYING.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/MAYING.png"
+        },
+        {
+            "name": "Media.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Media.png"
+        },
+        {
+            "name": "Microsoft.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Microsoft.png"
+        },
+        {
+            "name": "MO.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/MO.png"
+        },
+        {
+            "name": "Mouse.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Mouse.png"
+        },
+        {
+            "name": "Music.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Music.png"
+        },
+        {
+            "name": "Music_Enhance.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Music_Enhance.png"
+        },
+        {
+            "name": "MY.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/MY.png"
+        },
+        {
+            "name": "My5.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/My5.png"
+        },
+        {
+            "name": "myTV_SUPER.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/myTV_SUPER.png"
+        },
+        {
+            "name": "N3RO.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/N3RO.png"
+        },
+        {
+            "name": "NBC.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/NBC.png"
+        },
+        {
+            "name": "Netease_Music.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Netease_Music.png"
+        },
+        {
+            "name": "Netease_Music_Unlock.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Netease_Music_Unlock.png"
+        },
+        {
+            "name": "Netflix.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Netflix.png"
+        },
+        {
+            "name": "Netflix_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Netflix_Letter.png"
+        },
+        {
+            "name": "Nexitally.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Nexitally.png"
+        },
+        {
+            "name": "niconico.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/niconico.png"
+        },
+        {
+            "name": "niconico_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/niconico_Letter.png"
+        },
+        {
+            "name": "Notion.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Notion.png"
+        },
+        {
+            "name": "NTT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/NTT.png"
+        },
+        {
+            "name": "Null_Nation.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Null_Nation.png"
+        },
+        {
+            "name": "NyanCat.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/NyanCat.png"
+        },
+        {
+            "name": "Oracle.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Oracle.png"
+        },
+        {
+            "name": "Ox.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Ox.png"
+        },
+        {
+            "name": "Pandora.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Pandora.png"
+        },
+        {
+            "name": "PayPal.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/PayPal.png"
+        },
+        {
+            "name": "PBS.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/PBS.png"
+        },
+        {
+            "name": "PCCW.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/PCCW.png"
+        },
+        {
+            "name": "Peacock.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Peacock.png"
+        },
+        {
+            "name": "Peacock_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Peacock_Letter.png"
+        },
+        {
+            "name": "Peacock_P.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Peacock_P.png"
+        },
+        {
+            "name": "PH.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/PH.png"
+        },
+        {
+            "name": "Philippines.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Philippines.png"
+        },
+        {
+            "name": "Pig.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Pig.png"
+        },
+        {
+            "name": "Pornhub.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Pornhub.png"
+        },
+        {
+            "name": "PostBox.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/PostBox.png"
+        },
+        {
+            "name": "PostBox_Alt.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/PostBox_Alt.png"
+        },
+        {
+            "name": "Prime_Video.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Prime_Video.png"
+        },
+        {
+            "name": "Puzzle.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Puzzle.png"
+        },
+        {
+            "name": "QQ.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/QQ.png"
+        },
+        {
+            "name": "rix.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/rix.png"
+        },
+        {
+            "name": "rixcloud.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/rixcloud.png"
+        },
+        {
+            "name": "Rocket.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Rocket.png"
+        },
+        {
+            "name": "Round_Robin_Alt.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Round_Robin_Alt.png"
+        },
+        {
+            "name": "RU.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/RU.png"
+        },
+        {
+            "name": "Russia.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Russia.png"
+        },
+        {
+            "name": "Server.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Server.png"
+        },
+        {
+            "name": "SG.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SG.png"
+        },
+        {
+            "name": "Singapore.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Singapore.png"
+        },
+        {
+            "name": "Siri.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Siri.png"
+        },
+        {
+            "name": "SK.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SK.png"
+        },
+        {
+            "name": "Sling_TV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Sling_TV.png"
+        },
+        {
+            "name": "SoftBank.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SoftBank.png"
+        },
+        {
+            "name": "SoftBank_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SoftBank_Letter.png"
+        },
+        {
+            "name": "Spark.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Spark.png"
+        },
+        {
+            "name": "Speedtest.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Speedtest.png"
+        },
+        {
+            "name": "Spotify.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Spotify.png"
+        },
+        {
+            "name": "SS.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SS.png"
+        },
+        {
+            "name": "SSID_Alt.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SSID_Alt.png"
+        },
+        {
+            "name": "SSR.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SSR.png"
+        },
+        {
+            "name": "ssrcloud.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/ssrcloud.png"
+        },
+        {
+            "name": "SSR_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SSR_Letter.png"
+        },
+        {
+            "name": "SS_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/SS_Letter.png"
+        },
+        {
+            "name": "Stack.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Stack.png"
+        },
+        {
+            "name": "Star.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Star.png"
+        },
+        {
+            "name": "Static_Alt.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Static_Alt.png"
+        },
+        {
+            "name": "StreamingCN.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/StreamingCN.png"
+        },
+        {
+            "name": "Taiwan.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Taiwan.png"
+        },
+        {
+            "name": "Taobao.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Taobao.png"
+        },
+        {
+            "name": "Telegram_X.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Telegram_X.png"
+        },
+        {
+            "name": "Tencent_Cloud.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Tencent_Cloud.png"
+        },
+        {
+            "name": "TestFlight.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/TestFlight.png"
+        },
+        {
+            "name": "TH.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/TH.png"
+        },
+        {
+            "name": "Thailand.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Thailand.png"
+        },
+        {
+            "name": "TIDAL.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/TIDAL.png"
+        },
+        {
+            "name": "TikTok.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/TikTok.png"
+        },
+        {
+            "name": "TR.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/TR.png"
+        },
+        {
+            "name": "Trojan.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Trojan.png"
+        },
+        {
+            "name": "Trojan_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Trojan_Letter.png"
+        },
+        {
+            "name": "Turkey.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Turkey.png"
+        },
+        {
+            "name": "TVB.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/TVB.png"
+        },
+        {
+            "name": "TW.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/TW.png"
+        },
+        {
+            "name": "VMess_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/VMess_Letter.png"
+        },
+        {
+            "name": "w8ves.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/w8ves.png"
+        },
+        {
+            "name": "w8ves_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/w8ves_Letter.png"
+        },
+        {
+            "name": "Want_Want.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Want_Want.png"
+        },
+        {
+            "name": "Want_Want_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Want_Want_Letter.png"
+        },
+        {
+            "name": "WeChat.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/WeChat.png"
+        },
+        {
+            "name": "WeTV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/WeTV.png"
+        },
+        {
+            "name": "WeTV_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/WeTV_Letter.png"
+        },
+        {
+            "name": "WiFi.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/WiFi.png"
+        },
+        {
+            "name": "Windows.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Windows.png"
+        },
+        {
+            "name": "WTT.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/WTT.png"
+        },
+        {
+            "name": "x0.1.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x0.1.png"
+        },
+        {
+            "name": "x0.2.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x0.2.png"
+        },
+        {
+            "name": "x0.3.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x0.3.png"
+        },
+        {
+            "name": "x0.4.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x0.4.png"
+        },
+        {
+            "name": "x0.5.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x0.5.png"
+        },
+        {
+            "name": "x0.7.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x0.7.png"
+        },
+        {
+            "name": "x0.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x0.png"
+        },
+        {
+            "name": "x1.0.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x1.0.png"
+        },
+        {
+            "name": "x1.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x1.png"
+        },
+        {
+            "name": "x2.0.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x2.0.png"
+        },
+        {
+            "name": "x2.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x2.png"
+        },
+        {
+            "name": "x3.0.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x3.0.png"
+        },
+        {
+            "name": "x3.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x3.png"
+        },
+        {
+            "name": "x4.0.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x4.0.png"
+        },
+        {
+            "name": "x5.0.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/x5.0.png"
+        },
+        {
+            "name": "YoYu.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/YoYu.png"
+        },
+        {
+            "name": "YoYu_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/YoYu_Letter.png"
+        },
+        {
+            "name": "YTOO.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/YTOO.png"
+        },
+        {
+            "name": "YTOO_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/YTOO_Letter.png"
+        },
+        {
+            "name": "Yahoo.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Yahoo.png"
+        },
+        {
+            "name": "Yahoo_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Yahoo_Letter.png"
+        },
+        {
+            "name": "YouTube.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/YouTube.png"
+        },
+        {
+            "name": "YouTube_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/YouTube_Letter.png"
+        },
+        {
+            "name": "YouTube_Music.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/YouTube_Music.png"
+        },
+        {
+            "name": "Twitch.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Twitch.png"
+        },
+        {
+            "name": "Twitter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Twitter.png"
+        },
+        {
+            "name": "UK.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/UK.png"
+        },
+        {
+            "name": "ULB_Alt.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/ULB_Alt.png"
+        },
+        {
+            "name": "UN.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/UN.png"
+        },
+        {
+            "name": "United_Kingdom.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/United_Kingdom.png"
+        },
+        {
+            "name": "United_Nations.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/United_Nations.png"
+        },
+        {
+            "name": "United_States.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/United_States.png"
+        },
+        {
+            "name": "United_States_Map.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/United_States_Map.png"
+        },
+        {
+            "name": "Unlock.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Unlock.png"
+        },
+        {
+            "name": "US.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/US.png"
+        },
+        {
+            "name": "Vimeo.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Vimeo.png"
+        },
+        {
+            "name": "VIP.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/VIP.png"
+        },
+        {
+            "name": "VirMach.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/VirMach.png"
+        },
+        {
+            "name": "VirMach_Letter.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/VirMach_Letter.png"
+        },
+        {
+            "name": "ViuTV.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/ViuTV.png"
+        },
+        {
+            "name": "VMess.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/VMess.png"
+        },
+        {
+            "name": "Rainbow.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Rainbow.png"
+        },
+        {
+            "name": "Rainbow_1.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Rainbow_1.png"
+        },
+        {
+            "name": "LA.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/LA.png"
+        },
+        {
+            "name": "LA_Map.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/LA_Map.png"
+        },
+        {
+            "name": "Star_2.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Star_2.png"
+        },
+        {
+            "name": "Linkedin.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Linkedin.png"
+        },
+        {
+            "name": "ssLinks.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/ssLinks.png"
+        },
+        {
+            "name": "Renzhe.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Renzhe.png"
+        },
+        {
+            "name": "Ninja.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Ninja.png"
+        },
+        {
+            "name": "Pirate_Nation.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Pirate_Nation.png"
+        },
+        {
+            "name": "CreamData.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/CreamData.png"
+        },
+        {
+            "name": "Kakao.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Kakao.png"
+        },
+        {
+            "name": "Weibo.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Weibo.png"
+        },
+        {
+            "name": "Ryan.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Ryan.png"
+        },
+        {
+            "name": "Apeach.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Apeach.png"
+        },
+        {
+            "name": "Brown.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Brown.png"
+        },
+        {
+            "name": "iQIYI_1.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/iQIYI_1.png"
+        },
+        {
+            "name": "Ring.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Ring.png"
+        },
+        {
+            "name": "Fries.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Fries.png"
+        },
+        {
+            "name": "Naiko.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Naiko.png"
+        },
+        {
+            "name": "Gmail.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Gmail.png"
+        },
+        {
+            "name": "Nintendo.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/Nintendo.png"
+        },
+        {
+            "name": "PlayStation.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/PlayStation.png"
+        },
+        {
+            "name": "PlayStation_1.png",
+            "url": "https://raw.githubusercontent.com/Keywos/Qure/main/PlayStation_1.png"
+        },
+        {
+            "name": "Xbox.png",
+            "url": "https://raw.githubusercontent.com/KoAR.png"
+        }
+    ],
+    "description": "Qure mini key 转自 @Koolson"
+}
